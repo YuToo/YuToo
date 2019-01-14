@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="topbar_left_image_button" type="id" />
+    <item name="topbar_right_text_button" type="id" />
+    <item name="topbar_right_image_button" type="id" />
+    <item name="topbar_right_image_button_1" type="id" />
+    <item name="keyboard_finish_text_id" type="integer" />
+</resources>
